@@ -1,6 +1,32 @@
 title: ZhechongHuang's homepage
 logo: /Assets/picture.jpg
-description: An undergraguate student.
-show_downloads: false
-google_analytics:
-theme: jekyll-theme-minimal
+description: An undergraguate student majoring in computer science at PKU.
+email: cudraniatrec@163.com
+
+favicon: true
+remote_theme: vaibhavvikas/jekyll-theme-minimalistic
+color-scheme: light
+
+google_analytics: 
+
+url: "https://ZhechongHuang.github.io"
+
+plugins:
+  - jekyll-seo-tag
+  - jemoji
+  - jekyll-remote-theme
+  - jekyll-sitemap
+
+platforms:
+  - name: GitHub
+    icon: <i class="fa-brands fa-github"></i>
+    link: https://github.com/ZhechongHuang
+  - name: Projects
+    icon: <i class="fa-solid fa-file-code"></i>
+    link: ./projects
+  - name: Certifications
+    icon: <i class="fa-solid fa-award"></i>
+    link: ./certifications
+  - name: Open Source
+    icon: <i class="fa-solid fa-ghost"></i>
+    link: ./open-source
