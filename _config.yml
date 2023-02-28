@@ -1,15 +1,12 @@
-title: ZhechongHuang's homepage
-logo: /Assets/picture.jpg
-description: An undergraguate student majoring in computer science at PKU.
+title: "Zhechong\nHuang(黄柘铳)"
+logo: /assets/logo.jpg
 email: cudraniatrec@163.com
-
+description: An undergraduate student majoring in conputer science at PKU
 favicon: true
 remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 color-scheme: light
 
-google_analytics: 
-
-url: "https://ZhechongHuang.github.io"
+url: "zhechonghuang@github.io"
 
 plugins:
   - jekyll-seo-tag
@@ -18,15 +15,21 @@ plugins:
   - jekyll-sitemap
 
 platforms:
+  - name: Résumé
+    icon: <i class="fa-solid fa-file-lines"></i>
+    link: ./assets/resume.pdf
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
     link: https://github.com/ZhechongHuang
-  - name: Projects
-    icon: <i class="fa-solid fa-file-code"></i>
-    link: ./projects
-  - name: Certifications
-    icon: <i class="fa-solid fa-award"></i>
-    link: ./certifications
-  - name: Open Source
-    icon: <i class="fa-solid fa-ghost"></i>
-    link: ./open-source
+
+navigation:
+  - name: Aboutme
+    link: ./index.html
+  - name: Education
+    link: ./index.html#education
+  - name: Teaching
+    link: ./index.html#teaching
+  - name: Publications
+    link: ./index.html#publications
+  - name: Awards
+    link: ./index.html#awards
