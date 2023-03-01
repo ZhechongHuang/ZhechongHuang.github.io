@@ -26,7 +26,8 @@ July 2020 - June 2024
 ---
 
 ## Awards:
-
+1. Merit Student of Peking University（2021）
+2. Shenzhen Stock Exchange Scholarship（2021）
 
 
 

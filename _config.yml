@@ -21,7 +21,9 @@ platforms:
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
     link: https://github.com/ZhechongHuang
-
+  - name: Blog
+    icon: <i class="fa-solid fa-file-code"></i>
+    link: https://cudraniatrec.github.io
 navigation:
   - name: Aboutme
     link: ./index.html
